@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho Interdisciplinar - IOT e DM II</string>
+    <string name="activity_main_label_temperatura">Temperatura</string>
+    <string name="activity_main_label_umidade">Umidade</string>
+</resources>
